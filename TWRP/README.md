@@ -1,4 +1,4 @@
-# Builde your Own TWRP
+# Build your Own TWRP
 
 Only support OrangeFox now!
 
